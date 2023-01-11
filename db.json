@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Anjali",
+      "birth": "29-07-98",
+      "email": "kothekaranjali27@gmail.com",
+      "phone": "9989877898",
+      "address": "plot no 45, manewada road",
+      "gender": "Female",
+      "college": "S B Jain Nagpur,",
+      "hobbies": "Traveling, drawing"
+    },
+    {
+      "id": 2,
+      "name": "sumedh",
+      "birth": "12-06-1998",
+      "email": "Sumedh@gmail.com",
+      "phone": "96776677677",
+      "address": "plot no 45,Besa road",
+      "gender": "Male",
+      "college": "Gurunanak college, Nagpur",
+      "hobbies": "Reading"
+    },
+    {
+      "id": 3,
+      "name": "kiran",
+      "birth": "12-06-1998",
+      "email": "kiran@gmail.com",
+      "phone": "96776677677",
+      "address": "plot no 76,ulhas road",
+      "gender": "Male",
+      "college": "GD College, Pune",
+      "hobbies": "Traveling, drawing"
+    },
+    {
+        "id": 4,
+        "name": "Dipansh",
+        "birth": "09-06-1998",
+        "email": "Dipansh@gmail.com",
+        "phone": "96776677677",
+        "address": "Ulhas Nagpar,manewada road",
+        "gender": "Male",
+        "college": "Gurunanak college, Amaravati",
+        "hobbies": "Singing"
+      },
+      {
+        "id": 5,
+        "name": "Priya",
+        "birth": "02-06-1998",
+        "email": "Priya@gmail.com",
+        "phone": "96776677677",
+        "address": "plot no 76,ulhas road",
+        "gender": "Male",
+        "college": "Gurunanak college, Nagpur",
+        "hobbies": "Traveling, drawing"
+      }
+  ]
+}
